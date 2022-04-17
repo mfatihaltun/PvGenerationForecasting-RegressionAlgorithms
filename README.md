@@ -8,3 +8,10 @@ I used some previous dateset from internet and I received some reel current data
 
 I added to dataset link which in kaggle : [Solar Power Generation](https://www.kaggle.com/datasets/vipulgote4/solar-power-generation)
 
+### The Regression Algorithms that I used in the project
+* Multi Linear Regression
+* Support Vector Regression
+* Polinomial Regression 
+  * 2nd order and 4th order
+* Logistic Regression
+* Decision Tree Regression
