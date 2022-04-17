@@ -16,6 +16,7 @@ I added to dataset link which I get from kaggle webside : [Solar Power Generatio
 * Logistic Regression
 * Decision Tree Regression
 
-I also added some graph of regression algorithm.
+I also added some graph of regression algorithm below.
+
 ![image](https://user-images.githubusercontent.com/102865798/163698987-8c16ee4c-1ebd-4869-8cf8-d2e63e8ad5dd.png)
 
