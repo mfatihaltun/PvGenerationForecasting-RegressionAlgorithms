@@ -16,6 +16,6 @@ I added to dataset link which I get from kaggle webside : [Solar Power Generatio
 * Logistic Regression
 * Decision Tree Regression
 
-![image](https://user-images.githubusercontent.com/102865798/163698671-7b727c83-3672-47b7-9361-47f1785ea635.png)
-![image](https://user-images.githubusercontent.com/102865798/163698678-7550d4b8-fae2-473f-a1e1-422222845543.png)
-![image](https://user-images.githubusercontent.com/102865798/163698682-e5d36bc5-c774-4c2a-90f3-0d62410d0264.png)
+![image](https://user-images.githubusercontent.com/102865798/163698715-91dc282d-2594-4089-aa0b-7dc93523a3b1.png)
+![image](https://user-images.githubusercontent.com/102865798/163698716-6b7fcf08-3a4e-4c27-a1e2-8f2916a948e3.png)
+![image](https://user-images.githubusercontent.com/102865798/163698717-cb21d460-eb25-44fd-9f04-60b3671d8379.png)
